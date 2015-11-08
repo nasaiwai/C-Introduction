@@ -1,6 +1,5 @@
 /*
  * Assignment 7		p7.c		Due July 29, 2015
- * login #: cs5uao
  *
  * This program will use character strings, functions, and pointer notation 
  * to translate and print an input string into a simplified Pig Latin*
