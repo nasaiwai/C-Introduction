@@ -1,6 +1,5 @@
 /*
  * Assignment 5		p5.c		Due July 22, 2015
- * login #: cs5uao
  *
  * This program sorts 3 student's ages using pointers and functions.
  * The values are swapped to arrange in ascending and desceding sorted order.
