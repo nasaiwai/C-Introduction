@@ -1,6 +1,5 @@
 /*
  * Assignment 4		p4.c		Due July 15, 2015
- * login #: cs5uao
  *
  * This program gives users 5 choices for the command.
  * Depending on users' choice, the program prints out a triangle or pyramid.
