@@ -1,6 +1,5 @@
 /*
  * Assignment 3		p3.c		Due July 10, 2015
- * login #: cs5uao
  *
  * This program displays a (cardinal) whole number in Spanish text using if-else and in French text using switch statement.
  * Only a number in the range of 1 through 29 will be converted.
