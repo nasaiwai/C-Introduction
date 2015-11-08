@@ -1,6 +1,5 @@
 /*
  * Assignment 2		p2.c:		Due July8, 2015
- * login #: cs5uao
  * 
  * This program converts the number of kilometers to miles using the while, for, and do loop.
  * Use the conversion factor of "1 killometers is equal to .62 miles".
