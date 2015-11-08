@@ -1,6 +1,5 @@
 /*
  * Assignment 6		p6.c		Due July 24, 2015
- * login #: cs5uao
  *
  * This program will use functions and a one-dimensional array 
  * to sort and print lowest and highest of temperatures.
